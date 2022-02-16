@@ -1,0 +1,102 @@
+{
+  "products": [
+    {
+      "id": 1633881493263,
+      "name": "Анонимусasdasd",
+      "price": 1212,
+      "count": 1,
+      "img": "notebook"
+    },
+    {
+      "id": 1633882133902,
+      "name": "Анонимусasdasd",
+      "price": 1212,
+      "count": 1,
+      "color": "white",
+      "img": "phone"
+    },
+    {
+      "id": 1633882181598,
+      "name": "Анонимусzxczxczxc",
+      "price": 123213,
+      "count": 1111,
+      "color": "black",
+      "img": "notebook"
+    },
+    {
+      "name": "samsung",
+      "price": 1212,
+      "count": 121212121212,
+      "color": "white",
+      "insurance": true,
+      "software": true,
+      "img": "phone",
+      "id": 1633889177500
+    },
+    {
+      "name": "samsung",
+      "price": 1212,
+      "count": 121212121212,
+      "color": "white",
+      "insurance": true,
+      "software": true,
+      "img": "phone",
+      "id": 1633889177501
+    },
+    {
+      "name": "",
+      "price": 0,
+      "count": 0,
+      "color": "white",
+      "insurance": false,
+      "software": false,
+      "img": "phone",
+      "id": 1633889177502
+    },
+    {
+      "name": "",
+      "price": 0,
+      "count": 0,
+      "color": "white",
+      "insurance": false,
+      "software": false,
+      "img": "phone",
+      "id": 1633889177503
+    },
+    {
+      "name": "",
+      "price": 0,
+      "count": 0,
+      "color": "white",
+      "insurance": false,
+      "software": false,
+      "img": "phone",
+      "id": 1633889177504
+    },
+    {
+      "name": "",
+      "price": 0,
+      "count": 0,
+      "color": "white",
+      "insurance": false,
+      "software": false,
+      "img": "phone",
+      "id": 1633889177505
+    },
+    {
+      "name": "",
+      "price": 0,
+      "count": 0,
+      "color": "white",
+      "insurance": false,
+      "software": false,
+      "img": "phone",
+      "id": 1633889177506
+    }
+  ],
+  "cart": {
+    "id": 1,
+    "productId": 3,
+    "count": 1
+  }
+}
